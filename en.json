@@ -176,7 +176,7 @@
   "itsEmptyHere": "It's empty here",
   "parcelReceipt": "Parcel Receipt",
   "parcelReceiptDefaultMessage": "You have a new parcel at {{community}}.",
-  "issueCategoriesNotSetup" : "Complaint categories not defined. Categories need to be setup before complaints can be created.",
+  "issueCategoriesNotSetup": "Complaint categories not defined. Categories need to be setup before complaints can be created.",
   "withdrawn": "Withdrawn",
   "invitation": "Invitation",
   "publicationDate": "Publication Date",
