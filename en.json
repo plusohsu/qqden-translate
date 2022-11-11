@@ -138,7 +138,7 @@
   "passwordChanged": "Password changed",
   "important": "Important",
   "autoStartPermissionModalTitle": "Auto-Start Permission",
-  "autoStartPermissionModalMessage": "To maximize the battery life, your device manufacturer stops new apps from auto-starting when receiving live messages. Because of this QQDEN cannot show live notification messages for important community events.<br/><br/>To fix this, please give QQDEN auto-start permission from device's Auto-Start Manager settings.<br/><br/>Would you like to open the relevant settings panel to do this?",
+  "autoStartPermissionModalMessage": "To maximise the battery life, your device does not allow new apps from auto-starting when receiving live messages. Consequently, QQDEN cannot auto-start to show live notifications for community events.<br/><br/>To fix this, please give QQDEN auto-start permission from device's Auto-Start Manager settings.<br/><br/>Would you like to open the relevant settings for this?",
   "openSettings": "Open Settings",
   "noNetwork": "No internet connection",
   "objectNotFound": "The requested item was not found.",
