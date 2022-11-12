@@ -184,7 +184,7 @@
   "to": "To",
   "removePrompt": "Remove?",
   "downloadPrompt": "Download?",
-  "logoutPrompt": "If you logout, you will not receive notifications on important events.<br>Are you sure you want to continue?",
+  "logoutPrompt": "If you logout, you will not receive notifications.<br>Are you sure you want to continue?",
   "selectCommunity": "Select Community",
   "enterPINPrompt": "Please enter the OTP that we sent to your phone.",
   "attachmentTooLarge": "Attachment is too large. Attachments have to be less than {{maxSize}}.",
